@@ -1,0 +1,38 @@
+header{background-color: black;color: beige ;
+text-align: center;}
+
+body{ font-family: arial;
+        text-align:justify;
+      background-position: center;background-color: beige;
+    height: 400px;}
+
+form{ background: beige; width: 500px ;height: 500px;border-color: black;border-style: double;color: black;
+text-align: left;}
+aside{
+    background-color: #ef8354;
+    width: 25%;
+    height: 400px;
+    float: right;
+} 
+.nav menu{ list-style: none;
+    padding: 0%;
+    background: black;
+    width: 90%;
+    max-width: 100px;
+    margin:auto
+
+}
+.nav menu li a{
+    text-decoration: none;
+    color:beige;
+    padding:20px;
+    display: block;
+}
+.nav menu li{
+    display: inline-block;
+    text-align:center ;
+    
+
+}
+.nav menu li a:hover{background:#ef8354;}
+footer{background-color: black;color: beige;height: 40px;} 
